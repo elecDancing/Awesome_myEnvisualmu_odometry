@@ -170,9 +170,9 @@ if __name__ == '__main__':
 
 ## 参考资料 感谢前辈的付出
 
-[1]:https://zhaoxuhui.top/blog/2020/09/09/intel-realsense-d435i-installation-and-use.html
-[2]:https://www.mouser.cn/applications/getting-started-with-realsense-d455/
+[1]: https://zhaoxuhui.top/blog/2020/09/09/intel-realsense-d435i-installation-and-use.html
+[2]: https://www.mouser.cn/applications/getting-started-with-realsense-d455/
 
-[3]:https://zhaoxuhui.top/blog/2021/11/21/script-for-data-collection-and-postprocessing-with-d435i.html
+[3]: https://zhaoxuhui.top/blog/2021/11/21/script-for-data-collection-and-postprocessing-with-d435i.html
 
-[4]:https://zhaoxuhui.top/blog/2020/09/25/intel-realsense-D435i-ROS-API-notes.html
+[4]: https://zhaoxuhui.top/blog/2020/09/25/intel-realsense-D435i-ROS-API-notes.html
