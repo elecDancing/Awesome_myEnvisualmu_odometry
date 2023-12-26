@@ -2,7 +2,7 @@
 
 ## Build
 
-- This package was tested on **Ubuntu 16.04 (ROS Kinetic)** with **Eigen 3.3.7** for matrix computation and **OpenCV 3.3.1-dev** for image processing in **C++11**.
+- This package was tested on **Ubuntu 18.04** with **Eigen 3.3.7** for matrix computation and **OpenCV 3.3.1-dev** for image processing in **C++11**.
 
 - We use the catkin build system :
 
